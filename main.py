@@ -1,49 +1,36 @@
 import os
 from groq import Groq
 from dotenv import load_dotenv
-load_dotenv()  # take environment variables from .env.
+from datetime import datetime
+load_dotenv()
+from src.firstWrite import firstWrite
+from src.nextWrite import nextWrite
+from src.prevStory import getLastStoryChunk
+from src.writeToFile import writeToFile
+from src.debugOutput import debugOutput
 
-# Code of your application, which uses environment variables (e.g. from `os.environ` or
-# `os.getenv`) as if they came from the actual environment.
+PATH_TO_README = "../test.md"
 
-client = Groq(
-    api_key=os.environ.get("GROQ_API_KEY"),
-)
+client = Groq(api_key=os.environ.get("GROQ_API_KEY"),)
 
-chat_completion = client.chat.completions.create(
-  messages=[
-    # Set an optional system message. This sets the behavior of the
-    # assistant and can be used to provide specific instructions for
-    # how it should behave throughout the conversation.
-    {
-      "role": "system",
-      "content": "you are a an experienced creative storyteller and writer. Write in paragraphs like a novel."
-    },
-    {
-      "role": "user",
-      "content": """
-        Write a story about Dave the Paladin. All content of this story is to be drawn from the fantasy world of dungeons and dragons. The setting is the world of Faerul.
-        Dave begins his journey onboard a wagon with some other peasants going to the town of Bluestone to begin his adventure. Dave has become bored of his days spent at the monestary and seeks the thrill of adventure and quests.
-        Tou will write an ongoing unending story of Dave. You can create new characters, you can write dialogues, and you can write about Dave going on quests.
-        This story will never end and will keep going forever.
-      """,
-    }
-  ],
-  model="llama3-70b-8192",
-  # Controls randomness: lowering results in less random completions.
-  # As the temperature approaches zero, the model will become deterministic
-  # and repetitive.
-  temperature=0.5,
+first_story  = firstWrite(client)
+first_output = first_story.choices[0].message.content
+first_date   = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-  # The maximum number of tokens to generate. Requests can use up to
-  # 32,768 tokens shared between prompt and completion.
-  max_tokens=7000,
+debugOutput(first_story, first_date)
+writeToFile(first_output, first_date, PATH_TO_README)
 
-  # Controls diversity via nucleus sampling: 0.5 means half of all
-  # likelihood-weighted options are considered.
-  top_p=1,
-)
+last_story_chunk = getLastStoryChunk(PATH_TO_README)
 
-output = chat_completion.choices[0].message.content
+if last_story_chunk:
+    print("Last story chunk retrieved:")
+    print(last_story_chunk)
+else:
+    print("No previous story chunk found.")
 
-print(output)
+next_story  = nextWrite(client, last_story_chunk)
+next_output = next_story.choices[0].message.content
+next_date   = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+debugOutput(next_story, next_date)
+writeToFile(next_output, next_date, PATH_TO_README)
