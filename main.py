@@ -8,6 +8,7 @@ from src.update import commitToGithub
 load_dotenv()
 
 PATH_TO_README = "./README.md"
+MODEL='llama-3.1-70b-versatile'
 
 client = Groq(api_key=os.environ.get("GROQ_API_KEY"),)
 
@@ -19,11 +20,11 @@ if __name__ == '__main__':
   """
   date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
   if not os.path.exists("story_started.flag"):
-      startStory(client, PATH_TO_README)
+      startStory(client=client, model=MODEL, file_path=PATH_TO_README)
       with open("story_started.flag", "w") as f:
           f.write("Story started on: " + date)
   else:
-    writeNextStory(client, PATH_TO_README)
+    writeNextStory(client=client, model=MODEL, file_path=PATH_TO_README)
 
   # Commit the changes to the README file to the GitHub repository.
   # sudo crontab -e
