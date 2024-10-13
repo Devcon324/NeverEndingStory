@@ -130,3 +130,23 @@ Elleren's gaze swept over the wagon's occupants, her eyes lingering on Dave with
 "We've got news of troubles brewing in the hills," Grimbold chimed in, recalling a mixture of excitement and trepidation in his voice. "Dark forces stirring in the lands to the north."
 
 Elleren nodded solemnly, her eyes betraying the depth of the fear that hung in the air. "Yes. We've heard the stories too. These lands, here in Ashfall, know plenty about fear. We've felt the change in the air, long before it spread throughout the lands."
+
+---
+
+**Date Written:** 2024-10-13 16:00:04
+
+As Elleren's words hung in the morning air, a light breeze rustled the leaves of the nearby trees, casting dappled shadows on the ground below. The village elder's eyes seemed to cloud over, as if memories were stirring, memories that she had long hoped to forget. Cador stood tall beside her, his face set in a determined expression, as if he would shield her from the trials that lay ahead.
+
+Elleren turned her gaze back to the wagon's occupants, a sense of resignation etched on her face. "Come," she said finally, her voice a little stronger. "We'll talk in the village hall, away from prying ears and curious eyes. We've much to discuss, and time's not on our side."
+
+As Elleren led the way through the village, the group passed by small cottages with smoke drifting lazily from their chimneys. The residents who caught sight of the group couldn't help but pause in their daily activities, their faces turned towards the visitors with a mixture of curiosity and suspicion.
+
+The village hall itself stood in the heart of Ashfall, an ancient structure with wooden beams weathered to a silvery grey. Elleren pushed open the door, its wooden frame adorned with intricate carvings of various leaves and flowers that danced across its surface. The air inside was heavy with the scent of burning wood and a faint hint of herbs.
+
+As the group settled into their seats around the large wooden table that occupied the center of the hall, a fire crackled to life in the hearth, casting flickering shadows on the walls. Cador took a seat at the far end of the table, his back straight as he listened intently to the conversation that was about to unfold.
+
+Elleren began, her voice steady, as she recounted the troubles that had plagued the village. Dark creatures roamed the hills and forests surrounding Ashfall, creatures that seemed to have no eyes for the villagers' livestock but preyed on anything else that crossed their path. It was as if, she whispered, something had awakened a terror that the villagers had only heard about in fireside tales and distant legends.
+
+Elleren leaned forward, her voice barely above a whisper. "We believe that something – and we don't know what – has risen deep in the forest. A terror that the old gods themselves couldn't have imagined. Our people are leaving their homes to find safety elsewhere. Ashfall's dwindling, dying... and there's no one left to tell us what's happening or how to stop it."
+
+In the pause that followed, the group's collective gaze swung towards the hooded figure, who seemed to be watching the flames dance in the hearth with a mixture of quiet contemplation and hidden understanding.
