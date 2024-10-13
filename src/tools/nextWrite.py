@@ -1,6 +1,6 @@
 from groq import Groq
 
-def nextWrite(client: Groq, prev_story: str) -> dict:
+def nextWrite(client: Groq, model: str, prev_story: str) -> dict:
   """
   Write the next story chunk to the README file.
   Args:
@@ -23,7 +23,7 @@ def nextWrite(client: Groq, prev_story: str) -> dict:
         "content": prev_story,
       }
     ],
-    model="llama3-70b-8192",
+    model=model,
     # Controls randomness: lowering results in less random completions.
     # As the temperature approaches zero, the model will become deterministic
     # and repetitive.

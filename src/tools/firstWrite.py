@@ -1,6 +1,6 @@
 from groq import Groq
 
-def firstWrite(client: Groq) -> dict:
+def firstWrite(client: Groq, model: str) -> dict:
   """
   Write the first story chunk to the README file.
   Args:
@@ -25,7 +25,7 @@ def firstWrite(client: Groq) -> dict:
         """,
       }
     ],
-    model="llama3-70b-8192",
+    model=model,
     # Controls randomness: lowering results in less random completions.
     # As the temperature approaches zero, the model will become deterministic
     # and repetitive.
