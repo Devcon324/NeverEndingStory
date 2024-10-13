@@ -1,6 +1,6 @@
 from groq import Groq
 
-def nextWrite(client: Groq, previousStory: str) -> dict:
+def nextWrite(client: Groq, prev_story: str) -> dict:
   """
   Write the next story chunk to the README file.
   Args:
@@ -20,7 +20,7 @@ def nextWrite(client: Groq, previousStory: str) -> dict:
       },
       {
         "role": "user",
-        "content": previousStory,
+        "content": prev_story,
       }
     ],
     model="llama3-70b-8192",
