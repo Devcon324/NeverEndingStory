@@ -7,6 +7,8 @@ We follow **Dave**, our Programmed Paladin on his adventure!
 This is an **self-continuing** story that is **automatically updated 3x a day to this GitHub repository.**
 **Enjoy you morning coffee and read where dave is at!** The story is updated at **12:00 AM, 8:00 AM, 4:00 PM Eastern Standard Time**
 
+### [Click Here to Read Dave's Story Below](#the-story-of-dave-the-programmed-paladin)
+
 Built with **Generative Artificial Intelligence** using **Meta's llama3.1 70b Large Language Model**. This project accomplishes these steps:
 
 1. Start a story with an initial story chunk (some paragraphs).
