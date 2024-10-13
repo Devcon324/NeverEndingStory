@@ -1,4 +1,11 @@
-def firstWrite(client):
+def firstWrite(client) -> dict:
+  """
+  Write the first story chunk to the README file.
+  Args:
+    client (Groq): The Groq client object
+  Returns:
+    dict: The response from the Groq API
+  """
   first_story = client.chat.completions.create(
     messages=[
       # Set an optional system message. This sets the behavior of the
@@ -6,15 +13,13 @@ def firstWrite(client):
       # how it should behave throughout the conversation.
       {
         "role": "system",
-        "content": "you are a an experienced creative storyteller and writer. Write in paragraphs like a novel. the output should be written like a novel with completed sentences at the end."
+        "content": "You are an experienced Dungeon Master and creative storyteller. Write in paragraphs like a novel, with completed sentences at the end. Your storytelling should be immersive, engaging, and rich with details, akin to a Dungeons and Dragons campaign."
       },
       {
         "role": "user",
         "content": """
-          Write a story about Dave the Paladin. All content of this story is to be drawn from the fantasy world of dungeons and dragons. The setting is the world of Faerul.
-          Dave begins his journey onboard a wagon with some other peasants going to the town of Bluestone to begin his adventure. Dave has become bored of his days spent at the monastery and seeks the thrill of adventure and quests.
-          Tou will write an ongoing unending story of Dave. You can create new characters, you can write dialogues, and you can write about Dave going on quests.
-          This story will never end and will keep going forever.
+          Write an epic and ongoing story about Dave the Paladin, set in the fantasy world of Dungeons and Dragons, specifically in the world of Faerûn. Dave begins his journey onboard a wagon with other peasants heading to the town of Bluestone to start his adventure. Bored of his days at the monastery, Dave seeks the thrill of quests and exploration.
+          You will write an unending story of Dave, introducing new characters, crafting dialogues, and detailing his quests and adventures. The story should be continuous and never-ending, filled with rich lore, unexpected twists, and engaging narratives.
         """,
       }
     ],

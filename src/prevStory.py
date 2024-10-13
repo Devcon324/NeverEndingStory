@@ -1,33 +1,18 @@
-def getLastStoryChunk(file_path):
-  # Read the entire file content
+def getLastStoryChunk(file_path) -> str:
+  """
+  Get the last story chunk from the README file.
+  Args:
+    file_path (str): The path to the README file
+  Returns:
+    str: The last story chunk from the README file
+  """
+  separator = '---'
   with open(file_path, 'r') as file:
-      content = file.readlines()
+    content = file.read()
 
-  # Reverse the content list to search from the end
-  content.reverse()
-
-  last_chunk = []
-  date_marker_found = False
-
-  # Search for the last occurrence of the date marker
-  for line in content:
-      if line.startswith("**Date Written:**"):
-          if date_marker_found:
-              # We found the previous date, break and reverse the chunk back
-              break
-          else:
-              # The first occurrence of the date marker from the end
-              date_marker_found = True
-      elif date_marker_found:
-          # Collect lines for the last story chunk
-          last_chunk.append(line)
-
-  if last_chunk:
-      # Since we reversed the lines, reverse them back to the original order
-      last_chunk = ''.join(reversed(last_chunk)).strip()
-      # Remove trailing "---" if present
-      if last_chunk.endswith("---"):
-          last_chunk = last_chunk[:-3].strip()
-      return last_chunk
+  parts = content.split(separator)
+  if len(parts) > 1:
+    lines = parts[-1].strip().split('\n')
+    return '\n'.join(lines[1:]).strip()
   else:
-      return None  # No story chunk found
+    return "No previous story found!"

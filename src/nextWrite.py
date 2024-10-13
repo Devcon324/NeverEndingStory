@@ -1,4 +1,12 @@
-def nextWrite(client, previousStory: str):
+def nextWrite(client, previousStory: str) -> dict:
+  """
+  Write the next story chunk to the README file.
+  Args:
+    client (Groq): The Groq client object
+    previousStory (str): The previous story chunk
+  Returns:
+    dict: The response from the Groq API
+  """
   next_story = client.chat.completions.create(
     messages=[
       # Set an optional system message. This sets the behavior of the
@@ -6,7 +14,7 @@ def nextWrite(client, previousStory: str):
       # how it should behave throughout the conversation.
       {
         "role": "system",
-        "content": "you are a an experienced creative storyteller and writer. Write in paragraphs like a novel. the output should be written like a novel with completed sentences at the end."
+        "content": "You are an experienced Dungeon Master and creative storyteller. Write in paragraphs like a novel, with completed sentences at the end. Your storytelling should be immersive, engaging, and rich with details, akin to a Dungeons and Dragons campaign."
       },
       {
         "role": "user",

@@ -4,6 +4,7 @@ def debugOutput(story, date):
   completion_tokens = story.usage.completion_tokens
   total_tokens      = story.usage.total_tokens
   current_datetime  = date
+  print("\n################################################")
   print(output)
   print("\n################################################")
   print("#############     DEBUG LOGS      ##############")
