@@ -1,6 +1,30 @@
 # The-NeverEnding-Story
 
+## Background Information, How It's Made
+
+### What is this?
+
 We follow Dave, our Programmed Paladin on his adventure!
+
+This is an self-continuing story that is updated 3x a day on GitHub.
+
+Built with Generative Artificial Intelligence using Meta's llama3 70b Large Language Model. This project accomplishes these steps:
+
+1. Start a story with an initial story chunk (some paragraphs)
+2. Use the previous story chunk as context to write the next story chunk
+3. Write the stories to this README.md file with dated entries
+4. automate the git commands to commit and push to this repository
+5. cronjob the script to run 3x a day at 00:00, 08:00, and 16:00
+
+### Features I found cool when building
+
+#### using groq API
+
+Using Groq for LLM's is intuitive and easy. the syntax and responses received from the model are easily understood and can allow for great debugging.
+
+The fact this model is free (hopefully for a long time) allows for the great learning and exploration of using LLM's to make projects like this that explore how mnodels behave when in a continuous conversation.
+
+## The Story of Dave the Programmed Paladin
 
 ---
 
@@ -40,12 +64,14 @@ As Thrain spoke, the tavern's patrons began to murmur among themselves, their wh
 
 ---
 
-**Date Written:** 2024-10-13 13:26:33
+**Date Written:** 2024-10-13 13:27:19
 
-The air grew thick with anticipation as Grimbold's words hung suspended, like a tantalizing promise of secrets yet to be revealed. Dave's expression remained steadfast, his eyes never wavering from Thrain's, as if daring the human to lay his cards on the table. The fire continued to crackle, casting an eerie glow on the proceedings, as the patrons of the tavern watched the unfolding drama with rapt attention. Some among them had stopped mid-sentence, tankards paused on the way to their lips, while others leaned in, their faces aglow with curiosity.
+The air grew thick with anticipation as the patrons' whispers swelled into a palpable hum, each face aglow with the golden light of the fire pit. Dave's eyes narrowed, his mind racing with the implications of Thrain's words. Connections with those who knew the Wyrmwood's secrets? It was a tantalizing prospect, one that might just tip the scales in his favor. Yet, Grimbold's enigmatic warning had planted a seed of doubt, and Dave's instincts screamed for caution.
 
-Thrain, seeming to savor the attention, paused to take a sip of his ale, the movement deliberate, calculated. His gaze never left Dave's face, as if he sought to pierce the paladin's defenses and probe the depths of his intentions. As the silence stretched out, the hooded figure, still as stone, subtly shifted in their seat, the movement barely perceptible. Grimbold, on the other hand, continued to lean in, his voice dropping to a hushed whisper. "You see, paladin, the price Thrain speaks of is not one to be taken lightly. His connections go all the way to the top – or rather, to the depths of the Wyrmwood itself."
+As he pondered the risks and benefits, the hooded figure finally stirred, its movements a slow, deliberate unfolding, as if it had been a statue come to life. With an economy of motion, the figure pushed back its hood, revealing a tapestry of scars that crisscrossed its cheekbones and forehead. The eyes, a piercing shade of indigo, gleamed in the firelight as the figure spoke in a voice that was barely audible, yet carried an otherworldly authority.
 
-Dave's eyes narrowed, his grip on his tankard tightening as if in anticipation of a blow. "What do you mean?" His voice was steady, controlled, yet an undercurrent of tension eddied beneath the surface. Thrain, the expression on his face unreadable, seemed to savor the moment, his next words poised on the brink of revelation.
+"Thrain Blackbeard's price is not for the faint of heart," it said, the words dripping with an almost forgotten dialect. "You will pay in secrets, in fragments of your soul. Are you prepared to make such a cost?" The figure's gaze locked onto Dave, its eyes burning with an unnerving intensity. Thrain, meanwhile, merely chuckled, the sound like dry leaves rustling in the underbrush.
 
-The patrons of the tavern, sensing that the stakes had just been raised significantly, began to exchange worried glances, as if they knew more than they should, yet wished they didn't. Grimbold, however, merely chuckled, the sound like dry leaves rustling on a winter's night. "Ah, paladin, the web of intrigue that binds the Wyrmwood is a complex one indeed. Are you prepared to pay the price of knowledge?"
+Grimbold's whispers wove a counterpoint to the hooded figure's ominous warning, his words a tantalizing mixture of promise and menace. "Oh, paladin, Thrain's connections run deep indeed. He knows the leaders of the Wildwalker clans, the whispering women of the Underbrook, and the master-scholars of the Azure Spire. He can unlock doors that have been sealed for centuries, grant you access to forbidden knowledge... but at what cost?" The atmosphere in the tavern seemed to stretch to the breaking point, as the gathered patrons held their collective breath, awaiting Dave's response.
+
+In the silence, the fire crackled and spat, casting eerie silhouettes across the walls as the shadows danced in anticipation of the paladin's answer. It was as if the very fate of the Wyrmwood hung in the balance, and Dave's next move would set in motion a chain of events that would change the course of history forever.
