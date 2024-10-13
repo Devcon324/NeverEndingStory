@@ -16,8 +16,9 @@ if __name__ == '__main__':
   Once the stroy has started a flag is created to prevent starting the story again.
   Then write the next story chunk to the README file.
   """
+  date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
   if not os.path.exists("story_started.flag"):
       startStory(client, PATH_TO_README)
       with open("story_started.flag", "w") as f:
-          f.write("Story started on: " + datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+          f.write("Story started on: " + date)
   writeNextStory(client, PATH_TO_README)
