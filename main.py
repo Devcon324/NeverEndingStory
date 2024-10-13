@@ -27,5 +27,4 @@ if __name__ == '__main__':
 
   # Commit the changes to the README file to the GitHub repository.
   # sudo crontab -e
-  # 59 23 * * * cd /mnt/d/GitHub/The-NeverEnding-Story ; /usr/bin/env /usr/bin/python3 /mnt/d/GitHub/The-NeverEnding-Story/main.py
   commitToGithub(PATH_TO_README, date)
