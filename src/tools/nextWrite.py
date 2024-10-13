@@ -27,7 +27,7 @@ def nextWrite(client: Groq, previousStory: str) -> dict:
     # Controls randomness: lowering results in less random completions.
     # As the temperature approaches zero, the model will become deterministic
     # and repetitive.
-    temperature=0.5,
+    temperature=1.0,
 
     # The maximum number of tokens to generate. Requests can use up to
     # 32,768 tokens shared between prompt and completion.
