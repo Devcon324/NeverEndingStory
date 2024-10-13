@@ -72,3 +72,29 @@ As the first light of dawn crept over the horizon, the wagon rounded a bend in t
 As the villagers began to stir, the wagon drew closer to the heart of Ashfall. Dave spotted figures gathered near the village gate, their eyes watching the wagon's approach. Something in their demeanor seemed wary, even hostile, an air of unease that clung to the village like a shroud.
 
 "Welcome to Ashfall, traveler," one of them growled, stepping forward with a mixture of curiosity and suspicion. "But don't be thinkin' of stayin' too long. We've got trouble brewin' in these parts."
+
+---
+
+**Date Written:** 2024-10-13 13:29:31
+
+The villager's words hung in the air, casting a somber mood over the group as they disembarked from the wagon. The sun continued to rise, casting a warm glow over the village, but the atmosphere remained chilly. The peasants on the wagon eyed the villager warily, exchanging nervous glances as they gathered their belongings. Jepson, the wagon driver, merely shrugged and hopped off the wagon, stretching his short legs as he surveyed the village.
+
+Dave's gaze lingered on the villager, a man with a weathered face and a thick beard that seemed to hold a lifetime of secrets. The villager's eyes darted towards the hooded figure, who had stepped off the wagon with an air of quiet confidence. For a moment, the two locked gazes, their faces expressionless. Dave sensed a spark of tension between them, an unspoken connection that spoke of shared knowledge and hidden meanings.
+
+The villager turned back to the wagon driver, his voice brusque. "You're the supply wagon from Harvesthale, ain't ya?" He nodded at the stack of goods lashed to the wagon's bed.
+
+Jepson nodded in affirmation. "Aye, that's right. Bringing in goods for the villagers here."
+
+The villager's expression grew more serious, his brow furrowing in concern. "Well, we'll be glad of the supplies, but like I said, we've got... issues here. Bandits been raiding nearby farms, and our folk are spooked." He eyed the hooded figure warily, his voice dropping to a whisper. "And there's other rumors. Things that the wind carries, of troubles deeper than thieves and rascals."
+
+Grimbold snorted, rubbing his mechanical arm over his chest. "Sounds like any village out in the Boar Downs, eh?" His chuckle was awkward, tinged with a touch of unease. The hooded figure merely listened, her eyes narrowing as she absorbed the villager's words.
+
+A figure emerged from the heart of the village, her face marked by creases of worry and exhaustion. "Elleren," the villager called out to her, as she approached the wagon. She drew up beside the villager, eyeing the wagon and its occupants with a wary intensity.
+
+"I'm Cador," the villager said, pointing to himself. "This is Elleren, the village elder. She's the one you'll want to talk to, if you're looking to do business or rest for a spell." He nodded towards the figure beside him, her silver hair twisted into neat braids that hung down her back like tangles of vines.
+
+Elleren's gaze swept over the wagon's occupants, her eyes lingering on Dave with a concerned expression. She hesitated, then spoke in a voice marked by its deep conviction. "Ah, travelers. I see you've arrived in Ashfall. We've been expecting... well, perhaps not exactly you, but visitors." Her eyes seemed to hold secrets and curiosity in equal measure.
+
+"We've got news of troubles brewing in the hills," Grimbold chimed in, recalling a mixture of excitement and trepidation in his voice. "Dark forces stirring in the lands to the north."
+
+Elleren nodded solemnly, her eyes betraying the depth of the fear that hung in the air. "Yes. We've heard the stories too. These lands, here in Ashfall, know plenty about fear. We've felt the change in the air, long before it spread throughout the lands."
