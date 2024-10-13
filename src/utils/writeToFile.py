@@ -1,4 +1,4 @@
-def writeToFile(date, output, file_path):
+def writeToFile(date: str, output: str, file_path: str) -> None:
   try:
     print("writing to ", file_path)
     # Open the README.md file in append mode and add the output to the end

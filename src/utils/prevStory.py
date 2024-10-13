@@ -1,4 +1,4 @@
-def getLastStoryChunk(file_path) -> str:
+def getLastStoryChunk(file_path: str) -> str:
   """
   Get the last story chunk from the README file.
   Args:
