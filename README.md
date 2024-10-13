@@ -15,7 +15,7 @@ Built with **Generative Artificial Intelligence** using **Meta's llama3.1 70b La
 4. Automate the git commands to commit and push to this repository.
 5. Cronjob the script to run 3x a day at 00:00, 08:00, and 16:00.
 
-### Features I found cool when building:
+### Features I found cool when building
 
 #### Groq API
 
