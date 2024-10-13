@@ -6,6 +6,7 @@ def commitToGithub(file_to_commit: str, date: str) -> None:
   Args:
     date (str): The current date and time
   """
+  story_flag = "./story_started.flag"
   if not file_to_commit:
       print("No file to commit.")
       return
@@ -13,8 +14,8 @@ def commitToGithub(file_to_commit: str, date: str) -> None:
   os.system("echo 'Checking git status...'")
   os.system("git status")
   os.system("echo '#####################################################################################'")
-  os.system(f"echo 'Adding {file_to_commit} to staging area...'")
-  os.system(f"git add {file_to_commit}")
+  os.system(f"echo 'Adding {file_to_commit} and {story_flag} to staging area...'")
+  os.system(f"git add {file_to_commit} {story_flag}")
   os.system("echo '#####################################################################################'")
   os.system("echo 'Checking git status again...'")
   os.system("git status")
