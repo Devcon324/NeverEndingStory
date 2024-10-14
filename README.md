@@ -176,3 +176,9 @@ Beyond the fire, the encroaching darkness seemed to loom larger, as if the very 
 As the weighty silence continued to hang heavy in the air, Cador leaned forward, his eyes squinting into the flickering flames. "The forest's boundaries have always been treacherous," he said, his deep voice resonating with experience. "But in recent times, the tales have grown too unsettling to ignore. If the origins of the darkness reside within, we'll require a stalwart companion to stand by our side." His words carried an air of expectation, as his gaze settled on the hooded figure.
 
 The figure itself remained quiet, yet their shoulders slightly inclined, as if pondering Cador's offer. With deliberation, they raised a gloved hand, allowing the firelight to catch on the buckles and leather stitched into its length. As the hooded figure parted the darkness enveloping them, a glimpse of skin at the wrist was briefly visible – a smooth, pale epidermis, devoid of any prominent veins or markings. Such an odd sight only deepened the air of intrigue, leavingElleren to ponder what kind of enigmatic being might have emerged from the shadows to possibly alter their village's fate.
+
+---
+
+**Date Written:** 2024-10-14 16:00:02
+
+All the assembled villagers awaited.
