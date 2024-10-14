@@ -164,3 +164,15 @@ Elleren hesitated, as if choosing her words carefully. The elderly woman glanced
 The hooded figure leaned in closer, their face still obscured, yet their gaze piercing in its intensity. "I see," they murmured, their words barely audible over the crackling flames. "Perhaps, then, we should begin at the heart of the matter: the forest. It is there that we will discover the source of your troubles, and maybe, just maybe, find a way to dispel the darkness that has descended upon Ashfall."
 
 As the hooded figure's words hung in the air, an expectant silence enveloped the gathering, the shadows on the walls seeming to deepen, as if darkness itself was waiting to see what the future held for the embattled village.
+
+---
+
+**Date Written:** 2024-10-14 08:00:05
+
+The fire crackled in response, as if acknowledging the hooded figure's words, sending a sprig of sparks dancing up into the night air. Elleren's eyes, heavy with concern, darted to the figure's hood, her gaze probing for a glimpse of their face. But the shadows remained resolute, holding their secrets close. She shivered, a frisson of unease running down her spine, as the hooded figure's words seemed to conjure an image of the dark forest, its twisted boughs reaching out like skeletal fingers.
+
+Beyond the fire, the encroaching darkness seemed to loom larger, as if the very trees themselves were listening in on the conversation. A hooting owl, its mournful cry carrying on the evening breeze, seemed to punctuate the hooded figure's declaration. In that moment, the assembled villagers felt the weight of their shared uncertainty settle around them once more. They knew they stood at the cusp of a perilous journey, one that might demand more courage and strength than they could muster.
+
+As the weighty silence continued to hang heavy in the air, Cador leaned forward, his eyes squinting into the flickering flames. "The forest's boundaries have always been treacherous," he said, his deep voice resonating with experience. "But in recent times, the tales have grown too unsettling to ignore. If the origins of the darkness reside within, we'll require a stalwart companion to stand by our side." His words carried an air of expectation, as his gaze settled on the hooded figure.
+
+The figure itself remained quiet, yet their shoulders slightly inclined, as if pondering Cador's offer. With deliberation, they raised a gloved hand, allowing the firelight to catch on the buckles and leather stitched into its length. As the hooded figure parted the darkness enveloping them, a glimpse of skin at the wrist was briefly visible – a smooth, pale epidermis, devoid of any prominent veins or markings. Such an odd sight only deepened the air of intrigue, leavingElleren to ponder what kind of enigmatic being might have emerged from the shadows to possibly alter their village's fate.
