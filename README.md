@@ -150,3 +150,17 @@ Elleren began, her voice steady, as she recounted the troubles that had plagued 
 Elleren leaned forward, her voice barely above a whisper. "We believe that something – and we don't know what – has risen deep in the forest. A terror that the old gods themselves couldn't have imagined. Our people are leaving their homes to find safety elsewhere. Ashfall's dwindling, dying... and there's no one left to tell us what's happening or how to stop it."
 
 In the pause that followed, the group's collective gaze swung towards the hooded figure, who seemed to be watching the flames dance in the hearth with a mixture of quiet contemplation and hidden understanding.
+
+---
+
+**Date Written:** 2024-10-14 00:00:03
+
+The hooded figure slowly rose from their seat, as if drawn by an unseen force, their movements fluid and calculated. The other occupants of the wagon cast them curious glances, sensing an air of mystery surrounding the enigmatic figure. As they approached the fire, the flickering flames danced with eerie intensity, casting shadows that seemed to stretch and writhe like living things.
+
+Their hood turned towards Elleren, the shadows cast by the cowl deepening the lines of their face, rendering their features almost indistinguishable. The air seemed to vibrate with anticipation as the figure slowly raised its gaze to meet Elleren's. "Tell me," the hooded figure began, their voice low and husky, yet tinged with a quiet authority, "what signs have you seen that point to the nature of this terror? Are there markings, symbols, or tokens that might hint at its origins or essence?"
+
+Elleren hesitated, as if choosing her words carefully. The elderly woman glanced at Cador, who gave her a reassuring nod, before turning back to the hooded figure. "There have been... gruesome finds," she whispered, her voice trembling slightly. "Skulls, some animal, others that I'd swear were human. Carved with strange runes and markings, unlike anything we've ever seen. We've had no seers or scholars among us for nigh on a decade, so we can't decipher their meaning."
+
+The hooded figure leaned in closer, their face still obscured, yet their gaze piercing in its intensity. "I see," they murmured, their words barely audible over the crackling flames. "Perhaps, then, we should begin at the heart of the matter: the forest. It is there that we will discover the source of your troubles, and maybe, just maybe, find a way to dispel the darkness that has descended upon Ashfall."
+
+As the hooded figure's words hung in the air, an expectant silence enveloped the gathering, the shadows on the walls seeming to deepen, as if darkness itself was waiting to see what the future held for the embattled village.
