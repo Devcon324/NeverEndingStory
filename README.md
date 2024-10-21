@@ -15,7 +15,7 @@ Built with **Generative Artificial Intelligence** using **Meta's llama3.1 70b La
 2. Continue writing the next story chunk using the previous story chunk as context.
 3. Write the stories to this README.md file with dated entries.
 4. Automate the git commands to commit and push to this repository.
-5. Cronjob the script to run 3x a day at 00:00, 08:00, and 16:00.
+5. Cronjob the script to run 24x a day
 
 ### Features I found cool when building
 
