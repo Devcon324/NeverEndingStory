@@ -58,3 +58,15 @@ This cronjob essentially runs the command to cd to the repository, spin up the p
 ## Now enough of the technical stuff... Lets see how Dave is doing
 
 ## The Story of Dave the Programmed Paladin
+
+---
+
+**Date Written:** 2024-10-29 18:37:32
+
+As the sun rose over the rolling hills of the Dragon Coast, a worn leather wagon rattled and creaked its way along the dusty road to Bluestone. Among its passengers was Dave the Paladin, a young and ambitious warrior-monk clad in the simple, yet practical, attire of his order. With his gleaming steel-plated armor, longsword, and the symbol of his faith – a silver holy symbol of Selûne, the Moonmaiden – emblazoned on his chest, Dave cut an imposing figure amidst the peasant travelers. Yet, despite his martial bearing, a palpable sense of restlessness hung about him, like a traveler eager to shake off the tedium of months spent within the cloistered walls of his monastery.
+
+Dave's thoughts were consumed by the whispered tales of adventure and bravery that had long circulated among the brothers of his order. Tales of valiant heroes, of treacherous quests, and of the world beyond the monastery's walls had stirred something deep within him. It was this insatiable hunger for excitement and purpose that had driven him to bid farewell to the familiar, if unfulfilling, routines of his monastic life and set out into the wider world. Bluestone, a humble but bustling town on the northwestern coast of Faerûn, was to be his starting point – a stepping stone into the great unknown.
+
+As the wagon creaked and groaned over a particularly rutted stretch of road, a lanky, freckled youth with a handful of straw-stuffed luggage and a stringy-looking packmule caught Dave's eye. "Hey there! Mind if I slide on in? The missus has a heap of baskets on this side," the youth called out, motioning toward a corner of the wagon, where a stocky countrywoman guarded a veritable forest of woven reed containers. "They're for the market – finest freshwater clams this side of the Coast Way," she explained in a gruff, no-nonsense voice.
+
+Dave motioned graciously for the youth to join him, and they introduced themselves as Eli and his mother, Elara – a long-time seller of fresh seafood in Bluestone. "We've made the trip from Greenhaven these six years now," Elara explained, "though the tales of orcs and bandits along the roads don't make me sleep easy of late." As they spoke, the wagon inched closer to its destination – and the promise of adventure hovered tantalizingly within reach, like the first wisps of morning fog lifting to reveal the unsuspected wonders of the day to come.
