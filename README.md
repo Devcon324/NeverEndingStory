@@ -1002,3 +1002,15 @@ The blow was meant to be true, to shatter the sorcerer's concentration and break
 The sword struck true, but instead of Erebus's heart, it struck Lythariel's hand, the blade severing her wrist with a sickening crunch. Lythariel's cry of agony was lost in the chaos of the forest, but Thrain heard it clear as day. He heard the sound of their friendship shattering, the bond that had tied them together snapping like a fragile thread.
 
 As Thrain stumbled back, Lythariel's eyes locked onto his, and he saw something there that chilled him to the bone – a malevolent gleam, a hatred so pure and so unadulterated that it was hard to believe it came from the same person who had stood by him through thick and thin. The darkness had consumed her, body and soul, and Thrain was left staring at the abyss that had opened up before him.
+
+---
+
+**Date Written:** 2024-11-02 08:00:03
+
+The sound of Lythariel's scream still echoed through the air as Thrain's vision blurred, his mind reeling from the horror he had just committed. He stumbled backward, his sword slipping from his grasp, as if the very weight of his actions had become too much to bear. The forest around him seemed to darken, the shadows twisting into grotesque, nightmarish shapes that seemed to writhe and twist in agony. Erebus's laughter boomed through the clearing, a cold, mirthless sound that seemed to relish Thrain's torment.
+
+Lythariel's hand dangled limply at her side, a trickle of blood oozing from the jagged wound where Thrain's sword had severed her wrist. Her eyes, once bright and full of laughter, now burned with a malevolent intensity, a hatred that seemed to sear into Thrain's very soul. She took a step forward, her movements stiff and awkward, as if the darkness was still learning to control her body. Erebus's grin grew wider, his eyes gleaming with triumph as he whispered something in her ear.
+
+Thrain felt a cold dread creeping up his spine as he watched Lythariel's transformation. He had seen it before, the way the darkness seemed to consume her, but never like this. Never with such finality, such completeness. The Lythariel he knew was gone, lost to the void, and in her place stood a creature driven by a hunger for destruction and chaos. Thrain's heart ached with sorrow, his mind racing with the realization that he might have just lost the one person he had come to care for.
+
+With a jerky movement, Lythariel raised her remaining hand, and the darkness surged forward, a tidal wave of shadow and malevolent energy. Thrain knew he had to act, but his legs seemed heavy, his limbs weighted down by the knowledge of what he had done. Erebus's laughter grew louder, a cold, mirthless sound that seemed to mock Thrain's hesitation. In that moment, Thrain knew he had to make a choice – to stand and fight, or to flee and abandon the friend he had once known. The darkness closed in, a suffocating shroud of shadow and despair, and Thrain steeled himself for the battle to come.
