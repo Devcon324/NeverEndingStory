@@ -58,3 +58,17 @@ This cronjob essentially runs the command to cd to the repository, spin up the p
 ## Now enough of the technical stuff... Lets see how Dave is doing
 
 ## The Story of Dave the Programmed Paladin
+
+---
+
+**Date Written:** 2024-11-26 19:42:32
+
+The sun was just starting to peek over the horizon as the creaky wooden wagon rattled down the dirt road, carrying a handful of weary peasants to the bustling town of Bluestone. Among them was Dave, a young Paladin from the Order of the Radiant Dawn, who had left the seclusion of his monastery in search of adventure and excitement. With his gleaming silver armor and radiant aura, he stood out starkly amongst the worn-out travelers. The wagon's other occupants eyed him with a mix of curiosity and suspicion, whispering amongst themselves about the sight of the divine warrior traveling with common folk.
+
+As the morning wore on, the wagon journeyed deeper into the heart of the Sword Coast, passing rolling fields of wheat and gold, dotted with tiny villages and bustling markets. The sweet scent of fresh bread and roasting meats wafted from cooking fires, enticing the travelers with the promise of a warm meal at the day's end. As the riders rode on, Dave conversed with his fellow travelers, listening intently to their stories of hardship and woe, his eyes filled with compassion and kindness. There was the shy peasant girl named Elara, who sought to reunite with her estranged brother in Bluestone; Thomas, the burly blacksmith, who was shipping goods to set up a new forge in town; and Helmut, an eccentric merchant who spoke excitedly of exotic goods from far-off lands.
+
+"So, young Paladin, what brings you to our humble town?" Thomas asked, eyeing Dave's shining armor in awe. "Aren't you a bit...exotic for the monastery?" Dave chuckled, running a hand through his short blond hair, "I craved adventure and guidance, something more than devoting my days to chanting hymns and polishing silverware. I'm here to aid those in need, offer my sword arm to the town of Bluestone, and bring the light of justice to the world beyond." Elara smiled warmly, though Helmut merely raised an eyebrow at the Paladin's grand ambitions. "Well, friend, you've come to the right place," the merchant replied. "Bluestone is filled with more problems than there are nails in these creaky floorboards."
+
+As the conversation flowed on, the group began to discuss prospects of Bluestone, sharing tales of tavern brawls, local feuds, and mythical rumors of the Lizardfolk that were said to raid caravans from the nearby Mirkwood Forest. As the wagon wheels rolled along the bumpy road, a chill wind swept through the landscape, carrying the acrid stench of smoke and burning wood. Dave sat higher in his seat, an uncanny urge growing in his chest as the signs of dark magic began to accumulate on the horizon. A faint tendril of chaos shrouded the town ahead, urging Dave, ever the noble Paladin, to spring forth into action.
+
+As the town of Bluestone finally materialized before the wagon's wheels, Dave felt his senses on high alert. Tall timbers for large town gates came into view, overhung with glinting metal accents crafted in a wild array of patterns. Large torches kindled both sides of these gates that guarded the gate entrance into the town of Bluestone. A faded grandeur touched by a dash of dark terror to mark signs of smoldering strife painted all features of what once was, centuries ago; great, proud and resplendent, Bluestone.
