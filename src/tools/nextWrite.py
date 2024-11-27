@@ -1,6 +1,8 @@
 from groq import Groq
 
-def nextWrite(client: Groq, model: str, prev_story: str) -> dict:
+DEFAULT: str = "You are a brave adventurer who has been tasked with retrieving a powerful artifact from a dangerous dungeon. You have been traveling for days and have finally arrived at the entrance of the dungeon. The entrance is dark and foreboding, but you know that the artifact lies deep within. You take a deep breath and step inside, ready to face whatever challenges lie ahead."
+
+def nextWrite(client: Groq, model: str, prev_story: str = DEFAULT) -> dict:
   """
   Write the next story chunk to the README file.
   Args:

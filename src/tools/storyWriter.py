@@ -34,10 +34,13 @@ def writeNextStory(client: Groq, model: str, file_path: str = None) -> None:
   Args:
     client (Groq): The Groq client object
   """
-  last_story_chunk = getLastStoryChunk(file_path)
+  last_story_chunk: str = getLastStoryChunk(file_path)
   if last_story_chunk:
       print("\nLast story chunk retrieved shown below:")
       print(last_story_chunk, "\n")
   else:
-      print("No previous story chunk found.")
+      print("No previous story chunk found. Writing DEFAULT prev. story chunk.")
+      last_story_chunk: str = nextWrite(client=client, model=model).choices[0].message.content
+      print(last_story_chunk, "\n")
+
   generateStory(client=client, model=model, file_path=file_path, first_story=False, prev_story=last_story_chunk)

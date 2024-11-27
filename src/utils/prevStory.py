@@ -1,4 +1,6 @@
-def getLastStoryChunk(file_path: str) -> str:
+import src.tools.nextWrite as nextWrite
+
+def getLastStoryChunk(file_path: str) -> str | None:
   """
   Reads file from EOF and gets most recent story separated by '---'
   Optimized to read from the end of the file to the last separator
@@ -31,13 +33,16 @@ def getLastStoryChunk(file_path: str) -> str:
           break
   except Exception as e:
     print(f"Error: {e}")
-    # now we have the last story chunk containing one or more separators
-    last_story_chunk = ''
-    parts = buffer.split(separator) # list of all stories in buffer separated by '---'
-    if len(parts) > 1:
-      lines = parts[-1].strip().split('\n') # list of lines from the last story chunk
-      last_story_chunk = '\n'.join(lines[1:]).strip() # join the lines not including date on line 0
-      return last_story_chunk
+    return None
 
-    else:
-      return "No previous story found!"
+  # now we have the last story chunk containing one or more separators
+  last_story_chunk = ''
+  parts = buffer.split(separator) # list of all stories in buffer separated by '---'
+  if len(parts) > 1:
+    lines = parts[-1].strip().split('\n') # list of lines from the last story chunk
+    last_story_chunk = '\n'.join(lines[1:]).strip() # join the lines not including date on line 0
+    return last_story_chunk
+
+  else:
+    print("No previous story chunk found.")
+    return None
