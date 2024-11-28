@@ -442,3 +442,17 @@ The stranger's eyes seem to gleam with an otherworldly light as he watches the c
 With a sweeping gesture, he steps aside, allowing the companions to pass into the darkness. As they do, the door creaks shut behind them, plunging them into an inky blackness that seems to swallow them whole. The sound of their footsteps is muffled, as if the very forest itself is swallowing the noise. The air is heavy with the scent of damp earth and decaying leaves, and Elara can't shake the feeling that they are being watched by unseen eyes.
 
 As they journey deeper into the forest, the shadows seem to grow longer and darker, as if the very trees themselves are reaching out to snare them. The silence is oppressive, broken only by the sound of their own breathing and the soft rustling of leaves. And then, without warning, a faint light appears on the horizon, casting an eerie glow over the forest floor.
+
+---
+
+**Date Written:** 2024-11-27 21:00:03
+
+The light grows brighter, illuminating twisted branches and mist-shrouded ferns that writhe and twist like living things. It casts an unearthly glow on the companions, casting long shadows behind them as they approach the source of the illumination. The air seems to vibrate with an otherworldly energy, as if the very fabric of reality is about to tear apart and reveal a hidden truth. Old Tom's staff begins to pulse more rapidly, as if it senses the power that lies ahead.
+
+As they draw closer, the light coalesces into a glowing clearing, surrounded by a ring of mushrooms that emit a soft, ethereal luminescence. Their caps are a deep, rich purple, and they seem to pulse in time with the hum of the forest. In the center of the clearing stands a great stone monument, covered in moss and lichen, with intricate runes etched into its surface. The runes seem to shimmer and dance in the flickering light, casting a hypnotic spell over the companions.
+
+Eira feels a sudden jolt of recognition, as if she has seen these runes before, but can't quite place them. She reaches out a trembling hand, her eyes fixed on the monument as if it holds the key to a long-forgotten secret. Kael's eyes narrow, his hand tightening on the haft of his hammer as he scans the clearing for any sign of danger. Elara's grip on her sword tightens, her senses on high alert as she searches the shadows for any sign of movement.
+
+The stranger's eyes gleam with a knowing light as he watches the companions approach the monument. "This is the threshold of the Shadowwood," he says, his voice barely above a whisper. "Here, the veil between the worlds is at its thinnest. The secrets of the forest lie hidden within the runes, but beware, for the price of knowledge is often steeper than you can afford to pay."
+
+As he speaks, the runes begin to glow more brightly, casting a blinding light over the clearing. The companions feel a sudden surge of energy, as if the very fabric of reality is about to tear apart. And then, in an instant, everything goes black.
