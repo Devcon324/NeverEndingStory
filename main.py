@@ -25,6 +25,10 @@ if __name__ == '__main__':
   Then write the next story chunk to the README file.
   """
   date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+  with open("date.yaml", "a") as f:
+    f.write(f"commit-date: {date}\n")
+  commitToGithub(file_to_commit='date.yaml', date=date)
+
   if not os.path.exists("story_started.flag"):
       startStory(client=client, model=MODEL, file_path=PATH_TO_README)
       with open("story_started.flag", "w") as f:
@@ -34,4 +38,4 @@ if __name__ == '__main__':
 
   # Commit the changes to the README file to the GitHub repository.
   # sudo crontab -e
-  commitToGithub(PATH_TO_README, date)
+  commitToGithub(file_to_commit=PATH_TO_README, date=date)
