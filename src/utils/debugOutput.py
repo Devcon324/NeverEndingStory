@@ -6,6 +6,8 @@ def debugOutput(story: str, date: str) -> None:
   current_datetime: str  = date
 
   print("\n################################################")
+  print("#############   Generated story   ##############")
+  print("################################################")
   print(output)
   print("\n################################################")
   print("#############     DEBUG LOGS      ##############")

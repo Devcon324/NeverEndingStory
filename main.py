@@ -4,11 +4,17 @@ from dotenv import load_dotenv
 from datetime import datetime
 from src.tools import startStory, writeNextStory
 from src.update import commitToGithub
+import yaml
 
 load_dotenv()
+with open("settings.yaml", 'r') as file:
+  try:
+    settings = yaml.safe_load(file)
+  except yaml.YAMLError as exc:
+    print(exc)
 
-PATH_TO_README = "./README.md"
-MODEL='llama-3.1-70b-versatile'
+PATH_TO_README = settings['path-to-readme']
+MODEL = settings['model']
 
 client = Groq(api_key=os.environ.get("GROQ_API_KEY"),)
 
