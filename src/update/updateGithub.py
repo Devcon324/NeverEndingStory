@@ -2,7 +2,7 @@ import os
 
 def commitToGithub(file_to_commit: str, date: str) -> None:
   """
-  Commit the changes to the README file to the GitHub repository.
+  Commit the given file to the GitHub repository.
   Args:
     date (str): The current date and time
   """

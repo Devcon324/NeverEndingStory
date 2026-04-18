@@ -2,7 +2,7 @@ from groq import Groq
 
 def firstWrite(client: Groq, model: str) -> dict:
   """
-  Write the first story chunk to the README file.
+  Write the first story chunk to the story file.
   Args:
     client (Groq): The Groq client object
   Returns:

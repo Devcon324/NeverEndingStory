@@ -1,2 +1,2 @@
-path-to-readme: "./README.md"
+path-to-story: "./STORY.md"
 model: "llama-3.3-70b-versatile"

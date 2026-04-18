@@ -22,7 +22,7 @@ def generateStory(
 
 def startStory(client: Groq, model: str, file_path: str = None) -> None:
   """
-  Start the story by writing the first story chunk to the README file.
+  Start the story by writing the first story chunk to the story file (STORY.md).
   Args:
     client (Groq): The Groq client object
   """
@@ -30,7 +30,7 @@ def startStory(client: Groq, model: str, file_path: str = None) -> None:
 
 def writeNextStory(client: Groq, model: str, file_path: str = None) -> None:
   """
-  Write the next story chunk to the README file.
+  Write the next story chunk to the story file (STORY.md).
   Args:
     client (Groq): The Groq client object
   """

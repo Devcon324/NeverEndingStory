@@ -1,7 +1,7 @@
 def writeToFile(date: str, output: str, file_path: str) -> None:
   try:
     print("writing to ", file_path)
-    # Open the README.md file in append mode and add the output to the end
+    # Open the story file in append mode and add the output to the end
     with open(file_path, "a") as file:
       # Add double line breaks between each output part
       file.write("\n")

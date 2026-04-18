@@ -5,9 +5,9 @@ def getLastStoryChunk(file_path: str) -> str | None:
   Reads file from EOF and gets most recent story separated by '---'
   Optimized to read from the end of the file to the last separator
   Args:
-    file_path (str): The path to the README file
+    file_path (str): The path to the story file (e.g. STORY.md)
   Returns:
-    str: The last story chunk from the README file
+    str: The last story chunk from the story file
   """
   try:
     separator = '---\n'

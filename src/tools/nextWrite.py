@@ -4,7 +4,7 @@ DEFAULT: str = "You are a brave adventurer who has been tasked with retrieving a
 
 def nextWrite(client: Groq, model: str, prev_story: str = DEFAULT) -> dict:
   """
-  Write the next story chunk to the README file.
+  Write the next story chunk to the story file.
   Args:
     client (Groq): The Groq client object
     previousStory (str): The previous story chunk

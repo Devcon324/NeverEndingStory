@@ -7,13 +7,13 @@ We follow **Dave**, our Programmed Paladin on his adventure!
 This is an **self-continuing** story that is **automatically updated 3x a day to this GitHub repository.**
 **Enjoy you morning coffee and read where dave is at!** The story is updated at **12:00 AM, 8:00 AM, 4:00 PM Eastern Standard Time**
 
-### [Click Here to Read Dave's Story Below](#the-story-of-dave-the-programmed-paladin)
+### [Read Dave's story in STORY.md](./STORY.md)
 
 Built with **Generative Artificial Intelligence** using **Meta's llama3.1 70b Large Language Model**. This project accomplishes these steps:
 
 1. Start a story with an initial story chunk (some paragraphs).
 2. Continue writing the next story chunk using the previous story chunk as context.
-3. Write the stories to this README.md file with dated entries.
+3. Write the stories to [STORY.md](./STORY.md) with dated entries.
 4. Automate the git commands to commit and push to this repository.
 5. Cronjob the script to run 24x a day
 
